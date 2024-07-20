@@ -11,7 +11,6 @@ This project aims to provide timely alerts during extreme heat events using pred
 - `requirements.txt`: File to list project dependencies.
 - `.gitignore`: File to specify files and directories to be ignored by Git.
 
-Project Structure
 data/: Directory to store data files.
 
 heat_wave_data.csv: Raw data file containing historical heat wave information.
